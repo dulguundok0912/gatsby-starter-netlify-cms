@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Шинэлэг мэдээ
 image: /img/home-jumbotron.jpg
-heading: Шинэлэг мэдэээ
+heading: Яагаад манай site-ыг сонгох ёстой вэ?
 subheading: монгол дахь анхны туршилтын site
 mainpitch:
   title: Яагаад монгол хүн эрүүл байх естой вэ?
@@ -11,45 +11,30 @@ mainpitch:
     
    
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Манай site нь цэвэр бодит шуурхай мэдээллийг газар дээр нь танд хүргэх болно.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        1.ӨГЛӨӨНИЙ КОФЕ ТАНЫГ СЭРГЭЭДЭГ ҮҮ? Ихэнх хүмүүс өглөө босоод л кофе уудаг. Энэ нь үнэхээр бидний эрч хүчийг нөхөхөд тусалдаг болов уу.Өглөөний кофе таны өтгөнийг сайн гадагшлуулж мөн өлөн байх үедээ хар кофе уух нь жингээ барих нэг арга болдог гэнэүйлчилдэг байна
+        2.Хоол идэх дуршлаа бууруулахад тань кофе тусална. Хоолны дэглэм барьж байх үед тань хоол идмээр санагдвал нэг аяга кофе уучихад өл дардаг гэнэ.
+        3.Кофены найрлаганд ордог зарим бодис хүний биед үүссэн өөх тослогийн зүйлийг задраадаг болохыг эрдэмтэд тогтоожээ.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        4.Өглөө нойрмоглосон үед, үдэш оройгоор ажил ихтэй үед нэг аяга кофе сэргээш болж өгдөг. Ийм нөхцөлд алжаалаа түрхэн зуур гаргаж, ажлын чадвараа дээшлүүлэх нь хэн бүхэнд ач тустай байдаг билээ.
+        5.Хотын аль ч бүсэд утаа униар ихтэй тул өдөрт нэг аяга кофе уучихад гэмгүй байдаг аж. Учир нь кофе орчны бохирдлоос хамгаалдаг гэнэ.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        6.Элэгний төрөл бүрийн өвчин тусах магадлалыг багасгадаг. Өдөр бүр хоёр аяга кофе уудаг хүмүүс элэгний циррозоор өвчлөх эрсдэл 80 хувь бага байдаг байна.
+        7.Кофенд агуулагддаг антиоксидант нь хорт хавдар тусахаас сэргийлдэг.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+       8.Цэвэр байгалийн, түргэн уусдаг кофе нь 60-аас дээш насны хүмүүст илүү тустай, зүрх судасны    өвчнөөс хамгаалдаг болох нь тогтоогджээ.
+       9.Кофе элэг хамгаалж, нойр булчирхай, бүдүүн болон шулуун гэдэсний үйл ажиллагаанд сайнаар нөлөөлдөг.
+       10.Кофе хүний цусан дахь сахарын хэмжээг багасгадаг бөгөөд үүгээр сахарын ачааллыг эсэргүүцэх хүчин болдог ажээ.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    ӨГЛӨӨНИЙ КОФЕ ТАНЫГ СЭРГЭЭДЭГ ҮҮ?
 main:
   heading: Great coffee with no compromises
   description: >
