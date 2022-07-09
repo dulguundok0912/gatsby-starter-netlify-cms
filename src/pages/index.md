@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Шинэлэг мэдээ
 image: /img/home-jumbotron.jpg
-heading: Яагаад манай site-ыг сонгох ёстой вэ?
+heading: Site Маань нээгдсэнтэй холбогдуулаад кофэ-ны талаарх сонирхолтой баримтыг та бүхэнд хүргьё
 subheading: монгол дахь анхны туршилтын site
 mainpitch:
   title: Яагаад монгол хүн эрүүл байх естой вэ?
@@ -11,7 +11,7 @@ mainpitch:
     
    
 description: >-
-  Site Маань нээгдсэнтэй холбогдуулаад кофэ-ны талаарх сонирхолтой баримтыг та бүхэнд хүргьё
+
 intro:
   blurbs:
     - image: /img/coffee.png
